@@ -1,89 +1,198 @@
-<!-- 👋 Hi there! I'm Arshad Shaikh -->
-<h1 align="center">Hi there! 👋 I'm Arshad Shaikh</h1>
+# Hi there! 👋 I'm Arshad Shaikh
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3E91F7&width=500&lines=Passionate+Computer+Engineering+Student;Full+Stack+Developer+in+the+Making;Innovator+%7C+Tech+Enthusiast+%7C+Problem+Solver;Building+Future-Ready+Digital+Solutions!">
-</p>
-
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Problem+Solver;Tech+Enthusiast;Innovator" alt="Typing SVG" />
+</div>
 
 ## 🚀 About Me
 
-I'm a dedicated **Computer Engineering Student** passionate about transforming ideas into digital reality.  
-My journey in tech revolves around **web development**, **AI exploration**, and **building efficient management systems** that simplify life.  
-I love solving real-world problems using creative and logical approaches.
+Hi, I'm **Arshad Shaikh** — a passionate **Computer Science & Engineering** student at **COEP**.  
+I’m driven by a love for **technology, problem-solving, and creating digital solutions** that make a difference.  
 
-- 🔭 Currently Working On: *Hotel Management System (PHP + MySQLi)*  
-- 🌱 Currently Exploring: *AI, Web Development, and Full Stack Projects*  
-- 💡 Passionate About: *Smart Tech Solutions, Databases, and Clean UI Design*  
-- 📍 Location: *Maharashtra, India*
-
----
+- 🔭 *Currently Learning:* Computer Science and Engineering
+- 🌱 *Exploring:* Python, OpenCV, Machine Learning, Android Development
+- 💡 *Passionate About:* AI, Computer Vision, Mobile App Development
+- 📍 *Location:* Pune, Maharashtra, India
 
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages  
-`C` `C++` `Python` `JavaScript` `PHP` `HTML5` `CSS3` `SQL`
+| ![Python](https://skillicons.dev/icons?i=python) | ![Java](https://skillicons.dev/icons?i=java) | ![JavaScript](https://skillicons.dev/icons?i=js) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![PHP](https://skillicons.dev/icons?i=php) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Python | Java | JavaScript | HTML5 | CSS3 | C | C++ | PHP |
+
+---
 
 ### ⚙️ Frameworks & Libraries  
-`Flask` `Bootstrap` `Tailwind CSS` `React` `OpenCV`
+| ![Flask](https://skillicons.dev/icons?i=flask) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" /> | ![React](https://skillicons.dev/icons?i=react) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> | ![Tailwind](https://skillicons.dev/icons?i=tailwind) | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" /> |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Flask | OpenCV | React | NumPy | Pandas | Scikit-learn | Tailwind CSS | Bootstrap |
+
+---
+
+### 📊 Data Visualization & ML Tools  
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" /> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" /> | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" /> | <img src="https://github.com/ArshadShaikh-001/Pratik-Kumbhar/blob/main/kaggle.png" width="40" /> |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Matplotlib | Seaborn | SciPy | Keras | TensorFlow | PyTorch | Jupyter Notebook | Kaggle |
+
+---
+
+### 🧠 Computer Vision  
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" /> | <img src="https://github.com/ArshadShaikh-001/Pratik-Kumbhar/blob/main/yolo.jpeg" width="40" /> | <img src="https://mediapipe.dev/images/logo.png" width="40" /> |
+|:--:|:--:|:--:|
+| OpenCV | YOLO | MediaPipe |
+
+---
+
+### ☁️ Platforms & IDEs  
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" /> | ![VS Code](https://skillicons.dev/icons?i=vscode) | <img src="https://github.com/ArshadShaikh-001/Pratik-Kumbhar/blob/main/eclipse.png" width="40" /> |
+|:--:|:--:|:--:|
+| Google Colab | Visual Studio Code | Eclipse |
+
+---
 
 ### 🗄️ Databases  
-`MySQL` `SQLite` `Firebase`
-
-### ☁️ Tools & Platforms  
-`VS Code` `Git` `GitHub` `Figma` `Postman` `XAMPP`
-
----
-
-## 🧠 Areas of Interest
-🤖 Artificial Intelligence  
-📷 Computer Vision  
-💻 Full Stack Web Development  
-🧩 Problem Solving  
-📱 Android & System Apps  
-🚀 Innovation and Research  
+| ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Firebase](https://skillicons.dev/icons?i=firebase) | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" /> | ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=sqlite&logoColor=white) |
+|:--:|:--:|:--:|:--:|:--:|
+| SQLite | MySQL | Firebase | MongoDB | SQL |
 
 ---
 
-## 🏆 Featured Projects
-
-### 🔹 [Marketmind Analytics: Retail & FMCG Analysis](https://github.com/yourusername/Marketmind-Analytics)
-**Tech Stack:** Python, Machine Learning, Pandas, Matplotlib  
-A data-driven project performing **Market Basket Analysis** to derive insights for FMCG and retail industries.  
-🎯 *Published as a research paper highlighting customer purchase behavior.*
-
----
-
-### 🔹 [Hotel Management System](https://github.com/yourusername/hotel-management-system)
-**Tech Stack:** PHP, MySQLi, HTML, CSS, JS  
-A web-based system for managing hotel operations — including bookings, check-ins, check-outs, and billing.  
-🌟 *Designed for automation, efficiency, and real-time management.*
+### 🛠 Tools & Platforms  
+| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Figma](https://skillicons.dev/icons?i=figma) | ![Postman](https://skillicons.dev/icons?i=postman) | ![Linux](https://skillicons.dev/icons?i=linux) |
+|:--:|:--:|:--:|:--:|:--:|
+| Git | GitHub | Figma | Postman | Linux |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
+<div align="center"  style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshadShaikh-001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
+ <!-- Language Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArshadShaikh-001&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArshadShaikh-001&theme=tokyonight" width="340px" />
+  </div>
+
+  <!-- Activity Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArshadShaikh-001&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArshadShaikh-001&theme=tokyonight&utcOffset=+8.0" width="340px" />
+  </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadShaikh-001&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+## 🏆 Featured Projects
+
+### 🔌 [Volume Control Using Hand Gestures]
+*Tech Stack:* Python, OpenCV, MediaPipe
+
+This project enables users to control system volume using hand gestures detected via a webcam, leveraging computer vision for an intuitive user experience.
+
+- 🌟 *Key Features:* Real-time gesture recognition, seamless volume adjustment, user-friendly interface
+- 🎯 *Problem Solved:* Provides a contactless method to control system volume, enhancing accessibility and convenience
+- 🔗 *Links:* [Repository](https://github.com/ArshadShaikh-001/Volume-Control-Using-Hand-Gestures)
+
+### 🌾 [Virtual Mouse]
+*Tech Stack:* Python, OpenCV, MediaPipe
+
+A virtual mouse controlled by hand gestures, allowing users to interact with their computer through a webcam-based interface.
+
+- 🌟 *Key Features:* Gesture-based cursor control, click functionality, smooth tracking
+- 🎯 *Problem Solved:* Offers an innovative alternative to traditional mouse input, useful for presentations or accessibility
+- 🔗 *Links:* [Repository](https://github.com/ArshadShaikh-001/Vrtual-Mouse)
+
+### 📱 [BSIET Attendance]
+*Tech Stack:* Java, Android, SQLite
+
+An attendance management app for educational institutions, featuring dashboards, export functionalities, and offline capabilities.
+
+- 🌟 *Key Features:* Attendance tracking, summary dashboard, Excel export for lectures and practicals
+- 🎯 *Problem Solved:* Simplifies attendance management for educators and students with a user-friendly mobile interface
+- 🔗 *Links:* [Repository](https://github.com/ArshadShaikh-001/BSIET-Attendance)
+
+## 🌟 Areas of Interest
+
+- 🤖 *Machine Learning & AI*
+- 📷 *Computer Vision*
+- 📱 *Android Development*
+- 🧩 *Problem Solving*
+- 📊 *Data Structures & Algorithms*
+- 🚀 *Innovative Interfaces*
+- 🛠 *System Design*
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/pratik_1213/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kumbharpratik191)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshadShaikh-001&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <h3>Profile Info</h3>
+  <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Contact me</strong>
+       <br>
+       <br>
+         <a href="mailto:arshadshaikh987321@gmail.com">
+            <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
+          </a>
+           <a href="https://github.com/ArshadShaikh-001">
+            <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
+          </a>
+          <a href="[https://www.linkedin.com/in/arshad-shaikh-911b71346/](https://www.linkedin.com/in/arshad-shaikh-911b71346/)">
+            <img src="https://skillicons.dev/icons?i=linkedin"  width="auto" height="auto"/>
+          </a>
+         </p>
+     </div>
+   </kbd>
+  <kbd>
+     <div align="center">
+         <p>
+       <br> 
+         <strong>Profile Views</strong>
+       <br>
+       <br>
+           <img src="https://profile-counter.glitch.me/ArshadShaikh-001/count.svg" width="350px" />
+         </p>
+     </div>
+   </kbd>
+   <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Followers Count</strong>
+       <br>
+       <br>
+       <br>
+          <img src="https://img.shields.io/github/followers/ArshadShaikh-001?label=Followers&style=social" alt="followers-count" width="150px"> 
+       <br>
+       <br>
+         </p>
+     </div>
+  </kbd>
+</div>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-⭐ *“Code isn’t just logic — it’s creativity made executable.”*  
-
+<div align="center">
+ ⭐ *“Code isn’t just logic — it’s creativity made executable.”*  
+</div>
