@@ -98,23 +98,14 @@ A responsive interior design web project showcasing modern layouts, service offe
 - 🎯 *Problem Solved:*Provides an online platform for interior designers to showcase work and services, simplifies communication with potential clients, enhances brand presence with a modern, visually appealing website
 - 🔗 *Links:* [Repository](https://github.com/ArshadShaikh-001/interior-design-website)
 
-### 🌾 [Virtual Mouse]
-*Tech Stack:* Python, OpenCV, MediaPipe
+### 🌾 [Hotel Management System]
+*Tech Stack:* PHP, MySQLi, HTML, CSS, JavaScript
 
-A virtual mouse controlled by hand gestures, allowing users to interact with their computer through a webcam-based interface.
+A web-based system for managing hotel operations — including room bookings, check-ins/check-outs, and billing — designed to automate and streamline hotel management processes.
 
-- 🌟 *Key Features:* Gesture-based cursor control, click functionality, smooth tracking
-- 🎯 *Problem Solved:* Offers an innovative alternative to traditional mouse input, useful for presentations or accessibility
-- 🔗 *Links:* [Repository](https://github.com/ArshadShaikh-001/Vrtual-Mouse)
-
-### 📱 [BSIET Attendance]
-*Tech Stack:* Java, Android, SQLite
-
-An attendance management app for educational institutions, featuring dashboards, export functionalities, and offline capabilities.
-
-- 🌟 *Key Features:* Attendance tracking, summary dashboard, Excel export for lectures and practicals
-- 🎯 *Problem Solved:* Simplifies attendance management for educators and students with a user-friendly mobile interface
-- 🔗 *Links:* [Repository](https://github.com/ArshadShaikh-001/BSIET-Attendance)
+- 🌟 *Key Features:* Room booking and availability management, guest check-in/check-out system, billing and invoice generation, staff and admin management, secure login and user-friendly interface
+- 🎯 *Problem Solved:* Automates hotel operations, reduces manual work, improves efficiency and accuracy in guest management, billing, and staff coordination
+- 🔗 *Links:* [Repository](https://github.com/ArshadShaikh-001/hotel-management-system)
 
 ## 🌟 Areas of Interest
 
