@@ -94,16 +94,8 @@ I’m driven by a love for **technology, problem-solving, and creating digital s
 
 A responsive interior design web project showcasing modern layouts, service offerings, portfolio galleries, and contact features. Built using HTML, CSS, JavaScript and PHP & MySQL.
 
-- 🌟 *Key Features:*
-# - Responsive and modern website layout
-# - Portfolio gallery showcasing interior designs
-# - Service overview and description pages
-# - Contact form for user inquiries
-# - Seamless navigation and user-friendly interface
-- 🎯 *Problem Solved:*
-# - Provides an online platform for interior designers to showcase work and services
-# - Simplifies communication with potential clients via contact form
-# - Enhances brand presence with a modern, visually appealing website
+- 🌟 *Key Features:* Responsive and modern website layout, portfolio gallery showcasing interior designs, service overview pages, contact form, seamless navigation
+- 🎯 *Problem Solved:*Provides an online platform for interior designers to showcase work and services, simplifies communication with potential clients, enhances brand presence with a modern, visually appealing website
 - 🔗 *Links:* [Repository](https://github.com/ArshadShaikh-001/interior-design-website)
 
 ### 🌾 [Virtual Mouse]
