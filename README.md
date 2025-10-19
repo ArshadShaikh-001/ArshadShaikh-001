@@ -89,14 +89,22 @@ I’m driven by a love for **technology, problem-solving, and creating digital s
 
 ## 🏆 Featured Projects
 
-### 🔌 [Volume Control Using Hand Gestures]
-*Tech Stack:* Python, OpenCV, MediaPipe
+### 🔌 [Interior Design Website]
+*Tech Stack:* HTML, CSS, PHP
 
-This project enables users to control system volume using hand gestures detected via a webcam, leveraging computer vision for an intuitive user experience.
+A responsive interior design web project showcasing modern layouts, service offerings, portfolio galleries, and contact features. Built using HTML, CSS, JavaScript and PHP & MySQL.
 
-- 🌟 *Key Features:* Real-time gesture recognition, seamless volume adjustment, user-friendly interface
-- 🎯 *Problem Solved:* Provides a contactless method to control system volume, enhancing accessibility and convenience
-- 🔗 *Links:* [Repository](https://github.com/ArshadShaikh-001/Volume-Control-Using-Hand-Gestures)
+- 🌟 *Key Features:*
+# - Responsive and modern website layout
+# - Portfolio gallery showcasing interior designs
+# - Service overview and description pages
+# - Contact form for user inquiries
+# - Seamless navigation and user-friendly interface
+- 🎯 *Problem Solved:*
+# - Provides an online platform for interior designers to showcase work and services
+# - Simplifies communication with potential clients via contact form
+# - Enhances brand presence with a modern, visually appealing website
+- 🔗 *Links:* [Repository](https://github.com/ArshadShaikh-001/interior-design-website)
 
 ### 🌾 [Virtual Mouse]
 *Tech Stack:* Python, OpenCV, MediaPipe
